@@ -1,5 +1,7 @@
 # scene-explainer
 
+[![skills.sh](https://www.skills.sh/b/shubham7298/scene-explainer)](https://www.skills.sh/shubham7298/scene-explainer/scene-explainer)
+
 An agent skill for building animated explainer pages. Each page teaches one code change, pull request, bug fix or algorithm, step by step, in the style of a 3Blue1Brown video.
 
 The output is one self-contained HTML page. The reader steps through it with Next. Each step shows one idea as a picture with a short caption. Code appears beside the picture only after the idea has landed, and every code line on the page is pulled from git, never typed by hand.
